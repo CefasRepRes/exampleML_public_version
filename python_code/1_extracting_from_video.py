@@ -286,6 +286,8 @@ except:
         0
 time.sleep(1)
 
+os.mkdir(outputs_directory)
+
 if save_images:
     for dr in ["0","1","2","3","4","5","6","7","8","9","g"]:
         os.mkdir(outputs_directory+dr+"\\")
