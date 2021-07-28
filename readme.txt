@@ -1,6 +1,6 @@
 ################################################################# Getting started #################################################################
 
-# This is a copy of the cefasrepres 'exampleML' repository for anyone struggling with github access rights.
+# This is a copy of the cefasrepres 'exampleML' repository for anyone struggling with github access rights. The parent 'exampleML' repository may be more up-to-date than this repository, so please only use this repo if the original is not visible.
 
 # To run, please install the environment with conda. Open your conda prompt (i.e. miniforge prompt, anaconda prompt) and navigate to the 'reproducible_environment' folder (specific to your working folder) like so:
 cd 'C:\Users\JR13\Desktop\exampleML\reproducible_environment'
